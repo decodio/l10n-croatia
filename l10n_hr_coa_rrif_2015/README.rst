@@ -8,7 +8,7 @@ Kontni plan RRIF 2015
 
 This is the base module to manage the accounting chart for Croatian in OpenERP.
 
-This module also trys to install l10n_hr_account as base accounting localization,
+This module also trys to install l10n_hr_account_oca as base accounting localization,
 as well as l10n_hr_base_location,some modules from OCA must be available as addons !
 
 This module will install l10n_hr_account wich is not the same as module l10n_hr_account available in
