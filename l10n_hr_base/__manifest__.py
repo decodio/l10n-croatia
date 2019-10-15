@@ -25,7 +25,6 @@
         "bin": []
     },
     "data": [
-        "data/res_bank_data.xml",
         "views/res_company_view.xml",
 
         # NKD

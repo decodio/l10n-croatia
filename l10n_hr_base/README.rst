@@ -19,16 +19,14 @@ Podaci o poduzeću u raznim tijelima drzavne uprave:
 - NKD 2007
 - Banke u R.Hrvatskoj
 
-Banke:
 
-VBB - Vodeći broj banke
-Partner - partner koji predstavlja banku ( do we need ?)
-
+TODO:
 Prijevod base modula sa hrvatskim specifičnostima,
 npr: state - status ili drzava, ovisno o polju
    ( Ivica Dimjašević < ivica.dimjasevic@storm.hr > )
 
-l10n_hr_xml_common - mixin klasa sa metodama za sve HR formate xml poruka (pdv, joppd...)
+l10n_hr_xml_common - mixin klasa sa metodama za sve HR time formate xml poruka
+(pdv, joppd, eracun...)
 
 
 Bug Tracker
